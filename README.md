@@ -4,8 +4,7 @@
 SIGAP adalah aplikasi digital yang dirancang untuk mempermudah manajemen operasional restoran, dapur usaha kuliner, atau toko makanan. Sistem ini mengintegrasikan pengelolaan **stok gudang** dan **antrian pemesanan pelanggan** secara **real-time**, **efisien**, dan **otomatis**.
 ---
 
-## 📌 Daftar Isi
-- [📌 Daftar Isi](#-daftar-isi)
+📌 Daftar Isi
 - [📖 Deskripsi Proyek](#-deskripsi-proyek)
 - [🎯 Tujuan & Manfaat](#-tujuan--manfaat)
 - [🧠 Struktur Data & Algoritma](#-struktur-data--algoritma)
