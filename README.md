@@ -1,6 +1,7 @@
 # Kelompok_4_UAS
 
 # 🍽️ SIGAP - Sistem Informasi Gudang dan Antrian Pemesanan
+
 SIGAP adalah aplikasi digital yang dirancang untuk mempermudah manajemen operasional restoran, dapur usaha kuliner, atau toko makanan. Sistem ini mengintegrasikan pengelolaan **stok gudang** dan **antrian pemesanan pelanggan** secara **real-time**, **efisien**, dan **otomatis**.
 ---
 
