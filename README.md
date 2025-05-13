@@ -31,7 +31,7 @@ Dengan SIGAP, seluruh proses dari pemesanan pelanggan, pengecekan ketersediaan b
 ### 🎯 Tujuan
 - Mengembangkan sistem pengelolaan stok dan antrian secara real-time.
 - Memberikan efisiensi dan keakuratan dalam operasional kuliner.
-
+   
 ### ✅ Manfaat
 - Mengurangi kesalahan pencatatan.
 - Mempercepat layanan pemesanan.
