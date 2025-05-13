@@ -42,8 +42,8 @@ Dengan SIGAP, seluruh proses dari pemesanan pelanggan, pengecekan ketersediaan b
 
 ### 📦 Struktur Data:
 - `Queue`: untuk mengatur proses pemesanan yang masuk dan keluar.
-- `Linked List`: untuk mengupdate stok barang.
-- `Binary Search Tree`: untuk mengelola data bahan makanan di gudang berdasarkan nama atau kategori. 
+- `Single Linked List`: untuk menyimpan antrian barang.
+- `Double Linked List`: untuk menyimpan dan mencari produk. 
 
 ### ⚙️ Algoritma:
 - `FIFO`: untuk mengatur antrian pemesanan. 
