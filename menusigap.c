@@ -53,8 +53,8 @@ int produkTersedia(int id) {
 
 void menuAdmin() {
     int pilihan;
+        printf("\n--- ANDA LOGIN SEBAGAI ADMIN ---");
     do {
-        printf("\n---Anda Masuk ke Menu Admin---\n");
         printf("\n--- Menu Admin ---\n");
         printf("1. Proses Pesanan\n");
         printf("2. Lihat Riwayat Pesanan\n");
@@ -98,7 +98,8 @@ void menuAdmin() {
                 } else if (tindakanStok == 2) {
                     tambahStokProduk(id, jumlah);
                 } else {
-                    printf("Pilihan tidak valid.\n");
+                    printf("Mohon Maaf Saat Ini Fitur Belum Tersedia....\n");
+                    printf("Silahkan pilih fitur yang tersedia....\n");
                 }
                 break;
             case 4:
@@ -118,7 +119,8 @@ void menuAdmin() {
                 } else if (urutPilihan == 3) {
                     urutkanProduk("id");
                 } else {
-                    printf("Pilihan tidak valid.\n");
+                    printf("Mohon Maaf Saat Ini Fitur Belum Tersedia....\n");
+                    printf("Silahkan pilih fitur yang tersedia....\n");
                 }
                 break;
             case 6:
@@ -128,18 +130,20 @@ void menuAdmin() {
             case 7:
                 simpanProdukKeFile(FILE_PRODUK);
                 simpanAntrianKeFile("data_pesanan.txt");
-                printf("Terima Kasih!\n");
+                clearScreen();
+                printf("------TERIMA KASIH TELAH MENGGUNAKAN APLIKASI SIGAP-----\n");
                 break;
             default:
-                printf("Pilihan tidak valid.\n");
+                printf("Mohon Maaf Saat Ini Fitur Belum Tersedia....\n");
+                printf("Silahkan pilih fitur yang tersedia....\n");
         }
     } while (pilihan != 7);
 }
 
 void menuUser() {
     int pilihan;
+        printf("\n--- ANDA LOGIN SEBAGAI ADMIN ---");
     do {
-        printf("\n---Anda masuk ke Menu User---\n");
         printf("\n--- Menu User ---\n");
         printf("1. Pesan produk\n");
         printf("2. Lihat produk\n");
@@ -186,16 +190,19 @@ void menuUser() {
                 } else if (urutPilihan == 3) {
                     urutkanProduk("id");
                 } else {
-                    printf("Pilihan tidak valid.\n");
+                    printf("Mohon Maaf Saat Ini Fitur Belum Tersedia....\n");
+                    printf("Silahkan pilih fitur yang tersedia....\n");
                 }
                 break;
             case 5:
                 simpanProdukKeFile(FILE_PRODUK);
                 simpanAntrianKeFile("data_pesanan.txt");
-                printf("Terima Kasih! \n");
+                clearScreen();
+                printf("------TERIMA KASIH TELAH MENGGUNAKAN APLIKASI SIGAP-----\n");
                 break;
             default:
-                printf("Pilihan tidak valid.\n");
+                printf("Mohon Maaf Saat Ini Fitur Belum Tersedia....\n");
+                printf("Silahkan pilih fitur yang tersedia....\n");
         }
     } while (pilihan != 5);
 }
