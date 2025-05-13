@@ -42,16 +42,17 @@ Dengan SIGAP, seluruh proses dari pemesanan pelanggan, pengecekan ketersediaan b
 ## 🧠 Struktur Data & Algoritma
 
 ### 📦 Struktur Data:
-- `Queue`: untuk proses antrian pesanan pelanggan.
-- `Linked List`: untuk mengelola daftar antrean dinamis.
-- `Binary Search Tree`: untuk pencarian dan pengelolaan stok bahan makanan.
+- `Queue`: untuk mengatur proses pemesanan yang masuk dan keluar.
+- `Linked List`: untuk mengupdate stok barang.
+- `Binary Search Tree`: untuk mengelola data bahan makanan di gudang berdasarkan nama atau kategori. 
 
 ### ⚙️ Algoritma:
-- `FIFO`: untuk pemrosesan pesanan berdasarkan urutan masuk.
-- `Searching`: untuk mencari bahan berdasarkan nama/kategori.
-- `Sorting`:
-  - `Quick Sort`: untuk mengurutkan data secara efisien.
-  - `Merge Sort`: untuk pengurutan stabil dalam kategori besar.
+- `FIFO`: untuk mengatur antrian pemesanan. 
+- `Searching`: untuk mencari bahan makanan berdasarkan nama atau kategori.
+- `Sorting`: untuk mencari bahan makanan berdasarkan nama atau kategori
+  - `Quick Sort`: untuk mengurutkan bahan makanan berdasarkan harga.
+  - `Merge Sort`:  untuk mengurutkan bahan makanan  berdasarkan kategori.
+  - `Bubble Sort`: untuk mengurutkan bahan makanan berdasarkan ID.
 
 ---
 
