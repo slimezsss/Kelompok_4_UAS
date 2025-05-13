@@ -5,6 +5,14 @@
 #include "sigap.h"
 #define FILE_PRODUK "data_produk.txt"
 
+void clearScreen() {
+    #ifdef _WIN32
+        system("cls");
+    #else
+        system("clear");
+    #endif
+}
+
 int inputInteger(const char* prompt, int min, int max) {
     char line[100];
     int value;
@@ -199,21 +207,38 @@ int main() {
     char username[100], role[100];
     int pilihan;
 
-    printf("\n SELAMAT DATANG DI APLIKASI SIGAP! \n");
+    clearScreen(); 
+    printf("\n-------------SELAMAT DATANG DI APLIKASI SIGAP-----------\n");
+    printf("-------------SILAHKAN REGISTRASI ATAU LOGIN!!!-----------\n");
     printf("1. Login\n2. Registrasi\nPilihan: ");
     scanf("%d", &pilihan);
     getchar();  // Membersihkan karakter newline setelah scanf
-    if (pilihan == 2) {
-        registrasi();
-    }
 
+    clearScreen();
+    if (pilihan == 1) {
     if (login(username, role)) {
+        clearScreen();
         if (strcmp(role, "admin") == 0) {
             menuAdmin();
         } else {
             menuUser();
         }
     }
+        } else if (pilihan == 2) {
+            registrasi();
+            getchar();  // Pause agar user bisa membaca
+    clearScreen();
+    if (login(username, role)) {
+        clearScreen();
+        if (strcmp(role, "admin") == 0) {
+            menuAdmin();
+        } else {
+            menuUser();
+        }
+    }
+} else {
+    printf("Pilihan tidak valid. Silakan jalankan ulang program dan pilih 1 atau 2.\n");
+}
 
     return 0;
 }
