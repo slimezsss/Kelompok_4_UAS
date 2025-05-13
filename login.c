@@ -24,6 +24,7 @@ void registrasi() {
 
     
     printf("\n--- Registrasi ---\n");
+    printf("Silahkan registrasi dan pilih peran anda!!!\n");
     printf("Masukkan username: ");
     scanf("%s", username);
     printf("Masukkan password: ");
@@ -46,6 +47,7 @@ int login(char* username, char* role) {
     char fileUser[MAX], filePass[MAX], fileRole[MAX];
 
     printf("\n--- Login ---\n");
+    printf("Silahkan Masukkan Username dan Password Anda!!!\n");
     printf("Username: ");
     scanf("%s", inputUser);
     printf("Password: ");
