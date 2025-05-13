@@ -16,7 +16,7 @@ SIGAP adalah aplikasi digital yang dirancang untuk mempermudah manajemen operasi
 ---
 
 ## 📖 Deskripsi Proyek
-
+  
 SIGAP hadir sebagai solusi untuk pelaku usaha kuliner yang ingin:
 - Menyederhanakan proses pencatatan stok dan pemesanan.
 - Mengurangi human error dalam pelayanan.
