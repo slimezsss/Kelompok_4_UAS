@@ -1,0 +1,98 @@
+100,Asinan Jakarta,66,22000
+99,Ayam Bakar,60,28000
+98,Ayam Geprek,44,27000
+97,Ayam Goreng Kremes,72,26000
+96,Ayam Kalasan,34,31000
+95,Ayam Penyet,48,27000
+94,Ayam Pop,83,26000
+93,Ayam Saus Mentega,69,30000
+92,Ayam Serundeng,41,28000
+91,Ayam Taliwang,57,30000
+90,Ayam Woku,81,35000
+89,Bakmi GM,65,30000
+88,Bakmi Jawa,52,27000
+87,Bakso Beranak,73,32000
+86,Bakso Sapi,90,23000
+85,Batagor Bandung,56,23000
+84,Bebek Goreng,59,34000
+83,Bubur Ayam,66,21000
+82,Bubur Kacang Hijau,38,15000
+81,Bubur Manado,71,20000
+80,Capcay Goreng,65,24000
+79,Cendol Dawet,48,13000
+78,Coto Makassar,79,37000
+77,Empal Gentong,55,36000
+76,Es Campur,49,14000
+75,Es Pisang Ijo,67,16000
+74,Es Teler,50,15000
+73,Gado-Gado,58,25000
+72,Gado-Gado Betawi,54,21000
+71,Gulai Ayam,47,34000
+70,Gulai Kambing,53,37000
+69,Kambing Guling,88,45000
+68,Kerak Telor,82,20000
+67,Ketoprak Jakarta,77,20000
+66,Kolak Pisang,65,12000
+65,Kwetiau Goreng,73,25000
+64,Lawar Bali,35,27000
+63,Lontong Balap,62,23000
+62,Lontong Cap Go Meh,45,34000
+61,Lontong Kikil,78,27000
+60,Lontong Sayur,85,20000
+59,Martabak Manis,50,25000
+58,Martabak Telur,41,28000
+57,Mie Aceh,74,28000
+56,Mie Ayam,64,22000
+55,Mie Ayam Bakso,57,25000
+54,Mie Goreng,84,22000
+53,Mie Rebus,58,20000
+52,Nasi Ayam Hainan,61,28000
+51,Nasi Bebek Madura,65,32000
+50,Nasi Bogana,69,27000
+49,Nasi Campur,73,27000
+48,Nasi Gandul,70,22000
+47,Nasi Gila,53,22000
+46,Nasi Goreng,50,25000
+45,Nasi Goreng Gila,63,29000
+44,Nasi Goreng Jawa,42,27000
+43,Nasi Goreng Kampung,77,24000
+42,Nasi Goreng Mawut,55,26000
+41,Nasi Goreng Pete,60,26000
+40,Nasi Goreng Seafood,35,32000
+39,Nasi Goreng Spesial,81,27000
+38,Nasi Jagung,52,19000
+37,Nasi Krawu,39,31000
+36,Nasi Kucing,66,15000
+35,Nasi Kuning,67,21000
+34,Nasi Lengko,84,18000
+33,Nasi Liwet,59,29000
+32,Nasi Megono,33,20000
+31,Nasi Padang,72,30000
+30,Nasi Pecel,54,22000
+29,Nasi Timbel,76,30000
+28,Nasi Tutug Oncom,48,25000
+27,Nasi Uduk,56,20000
+26,Opor Ayam,69,27000
+25,Pallubasa,64,35000
+24,Pecel Lele,41,23000
+23,Pempek Palembang,85,30000
+22,Rawon Daging,47,33000
+21,Rawon Setan,90,36000
+20,Rendang Daging,62,40000
+19,Rujak Cingur,79,23000
+18,Sate Ayam,38,26000
+17,Sate Kambing,68,35000
+16,Sate Lilit Bali,59,33000
+15,Sate Padang,73,31000
+14,Siomay Bandung,45,23000
+13,Sop Buntut,89,32000
+12,Sop Iga,77,38000
+11,Sop Kambing,55,35000
+10,Sop Konro,36,39000
+9,Soto Ayam,60,24000
+8,Soto Betawi,47,30000
+7,Sup Jagung,21,22000
+6,Tahu Balado,84,25000
+5,Tahu Campur,50,21000
+3,Tahu Tek,35,20000
+2,Tongseng Sapi,55,39000
